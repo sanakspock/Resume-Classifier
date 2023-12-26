@@ -15,3 +15,16 @@ After training and validation, the model exhibited exceptional performance on th
 - **Validation Accuracy:** 99.06%
 
 ### Confusion Matrix:
+![output](https://github.com/sanakspock/Resume-Classifier/assets/70244799/91b0af07-f81a-4be1-aed7-e6df91f81d0b)
+
+
+## Conclusion
+Our visual-based resume classifier, employing a resnet34 CNN, achieved outstanding accuracy and demonstrated minimal misclassifications. This success underscores the model's effectiveness in discerning between resume and non-resume images without relying on OCR or textual features. The meticulous data processing and model training have laid the groundwork for a reliable and practical tool for automated resume classification. Future refinements could explore additional data sources and advanced model architectures to further enhance the classifier's performance for broader applications.
+
+### Repository Contents
+- **classifier.ipynb:** Notebook containing the code for the model.
+- **data_collection.ipynb:** Notebook detailing the data collection process.
+- **resume_classifier.pkl files:** Model files for reference.
+- **LICENSE:** License information.
+- **README.md:** Overview and instructions for the repository.
+
